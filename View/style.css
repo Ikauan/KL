@@ -1,0 +1,17 @@
+.navbar{
+    background: #fdfd96;
+}
+
+.cor{
+    background: #5086c1;
+}
+a{
+    text-decoration: none;
+    color: rgb(250, 89, 89);
+    font-size: large;
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 10px;
+}
